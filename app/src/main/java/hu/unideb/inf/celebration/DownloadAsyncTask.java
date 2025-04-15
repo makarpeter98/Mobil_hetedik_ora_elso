@@ -31,6 +31,7 @@ public class DownloadAsyncTask extends AsyncTask<Void, Integer, String> {
 
     @Override
     protected String doInBackground(Void... voids) {
+        return null;
     }
 
     @Override
